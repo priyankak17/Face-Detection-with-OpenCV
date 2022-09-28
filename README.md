@@ -1,8 +1,11 @@
 # Face-Detection-with-OpenCV
 
-# Index
+## Index
 ### 1. Main code - face-detector.py
 ### 2. Test Image - news.jpg
 
-# Structure Overview
+##Requirements
+### 1.OpenCV `pip install opencv-python`
+
+## Structure Overview
 
