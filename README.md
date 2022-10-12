@@ -8,9 +8,8 @@
 
 
 ## Requirements
-##### 1. Import OpenCV 
-#####    Check if it is installed 
-#####    if not `pip install opencv-python`
+##### 1. Install OpenCV   `pip install opencv-python`
+
 
 
 
