@@ -10,4 +10,5 @@
 ## Face detection Flowchart 
 
 
-![Face detection flow chart](https://user-images.githubusercontent.com/31099806/195257716-6fdb4317-5649-4ea4-96a0-ef758af50a10.jpg)
+
+![Face detection flow chart](https://user-images.githubusercontent.com/31099806/195258036-7aaeb3a1-d0af-4165-baae-2a52920df26c.jpg)
